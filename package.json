@@ -1,6 +1,7 @@
 {
   "name": "lang_translator",
   "version": "0.1.0",
+  "homepage": "https://yoavo1984.github.io/translate-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
